@@ -6,10 +6,13 @@ Dưới đây là nội dung được format lại thành file Markdown (.md) v�
 ## 1. Dữ liệu đầu vào từ hex dump
 Hex dump của file "Hay_trao_cho_anh.txt" được cung cấp như sau:
 
-![alt text](image.png)
+
 
 ### Text
+
 ```
+![alt text](image.png)
+
 00000000: 5b63 7771 8ca6 abda dbb6 f3ff dd26 3540  [cwq.........&5@
 00000010: 1159 6967 4579 956c b2c4 93c9 e2f8 f9d4  .YigEy.l........
 00000020: 1924 3908 2f37 4b45 6041 505b 67ac       .$9./7KE`AP[g.
